@@ -2,10 +2,12 @@
 I love visual arts 
 
 ## Skills
-- Drawing
-- Coding [Web](https://aaronliunz.github.io/learnweb/)
-- Painting
-- Ipad drawing
+- Arts
+  - Painting
+  - Drawing
+  - Ipad Drawing
+- Coding
+  - [Web](https://aaronliunz.github.io/learnweb/)
 - Design visual communication
 
 ## Contact
